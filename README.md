@@ -1,4 +1,4 @@
-下载后丢给teleagent或workbuddy这样的智能体
-把TRPG的模组丢进去
-等
+下载后丢给teleagent或workbuddy这样的智能体。
+把TRPG的模组丢进去。
+等生成出来。
 地图生成可能有些烂，我之后慢慢搞。你们用的话就先自己改改。
